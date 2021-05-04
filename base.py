@@ -3,7 +3,7 @@ from PIL import ImageGrab, ImageOps
 import colorMap.mapper as cmap
 import pyautogui as pya
 import os, time, sys
-init(autoreset=True)
+init(autoreset=False)
 
 class color:
      PURPLE='\033[95m'
