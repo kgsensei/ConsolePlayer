@@ -1,0 +1,16 @@
+(0,0,0):black
+(1,1,1):black
+(2,2,2):black
+(3,3,3):black
+(4,4,4):black
+(5,5,5):black
+(6,6,6):black
+(7,7,7):black
+(8,8,8):black
+(9,9,9):black
+(10,10,10):black
+(11,11,11):black
+(12,12,12):black
+(13,13,13):black
+(14,14,14):black
+(15,15,15):black
